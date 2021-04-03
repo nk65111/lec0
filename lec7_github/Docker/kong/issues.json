@@ -1,0 +1,98 @@
+[
+    {
+        "IssueTopic": "http-log plugin - ElasticSearch ERROR: Limit of total fields [1000] in index",
+        "issueLink": "https://github.com/Kong/kong/issues/6965"
+    },
+    {
+        "IssueTopic": "statsd Metrics with route tags",
+        "issueLink": "https://github.com/Kong/kong/issues/6963"
+    },
+    {
+        "IssueTopic": "Kong migrations should include an optional retry flag",
+        "issueLink": "https://github.com/Kong/kong/issues/6960"
+    },
+    {
+        "IssueTopic": "Kong 2.1.4 to 2.3.3 migration certificates resources breaking behavior",
+        "issueLink": "https://github.com/Kong/kong/issues/6951"
+    },
+    {
+        "IssueTopic": "Using a Go plugin generates emergency logs at startup and adds a 10-second delay for a graceful stop",
+        "issueLink": "https://github.com/Kong/kong/issues/6948"
+    },
+    {
+        "IssueTopic": "allow use of process substitution for config files",
+        "issueLink": "https://github.com/Kong/kong/issues/6942"
+    },
+    {
+        "IssueTopic": "Control Plane should utilize cache when it looses database connection",
+        "issueLink": "https://github.com/Kong/kong/issues/6935"
+    },
+    {
+        "IssueTopic": "Additional persistence options (e.g. MongoDB, or file-based options)",
+        "issueLink": "https://github.com/Kong/kong/issues/6934"
+    },
+    {
+        "IssueTopic": "FEATURE Kong configuration via ENV on container instances",
+        "issueLink": "https://github.com/Kong/kong/issues/6928"
+    },
+    {
+        "IssueTopic": "expose env_vars argument from start_kong",
+        "issueLink": "https://github.com/Kong/kong/issues/6924"
+    },
+    {
+        "IssueTopic": "YAML Anchors not working on kong 2.3 declarative config",
+        "issueLink": "https://github.com/Kong/kong/issues/6923"
+    },
+    {
+        "IssueTopic": "Plugin name schema should be a reference to \"plugins\"",
+        "issueLink": "https://github.com/Kong/kong/issues/6920"
+    },
+    {
+        "IssueTopic": "AWS CloudFormation Fails - The following resource(s) failed to create: [KongScalingGroup].",
+        "issueLink": "https://github.com/Kong/kong/issues/6919"
+    },
+    {
+        "IssueTopic": "Kong 2.3.2 CLI commands seem to be wiping my custom generated nginx.conf file with a Kong default.",
+        "issueLink": "https://github.com/Kong/kong/issues/6917"
+    },
+    {
+        "IssueTopic": "Global override for timeouts",
+        "issueLink": "https://github.com/Kong/kong/issues/6913"
+    },
+    {
+        "IssueTopic": "upstream load balancer weight=0 is not accepted",
+        "issueLink": "https://github.com/Kong/kong/issues/6910"
+    },
+    {
+        "IssueTopic": "PostgreSQL error failed to retrieve PostgreSQL server_version_num: tlsv1 alert protocol version",
+        "issueLink": "https://github.com/Kong/kong/issues/6906"
+    },
+    {
+        "IssueTopic": "nginx worker stuck on shutdown after reload",
+        "issueLink": "https://github.com/Kong/kong/issues/6904"
+    },
+    {
+        "IssueTopic": "Create many tmp dir and nginx.conf file ?",
+        "issueLink": "https://github.com/Kong/kong/issues/6898"
+    },
+    {
+        "IssueTopic": "Upgrade 2.3 - Log files not accessible",
+        "issueLink": "https://github.com/Kong/kong/issues/6895"
+    },
+    {
+        "IssueTopic": "Unable to create a working IngressClass object that is pointing to Kong Ingress Class",
+        "issueLink": "https://github.com/Kong/kong/issues/6888"
+    },
+    {
+        "IssueTopic": "Stream listen doesn't work.",
+        "issueLink": "https://github.com/Kong/kong/issues/6883"
+    },
+    {
+        "IssueTopic": "May I ask that is there any configuration or solution which could fetch and log the request body in log file?",
+        "issueLink": "https://github.com/Kong/kong/issues/6877"
+    },
+    {
+        "IssueTopic": "*110 upstream timed out (110: Operation timed out) while reading response header from upstream",
+        "issueLink": "https://github.com/Kong/kong/issues/6871"
+    }
+]

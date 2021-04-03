@@ -1,0 +1,98 @@
+[
+    {
+        "IssueTopic": "Import Declaration Newline Rules Confusing/Not Documented Correctly",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2340"
+    },
+    {
+        "IssueTopic": "Should 'react/react-in-jsx-scope' be disabled by default if the new JSX transform is used.",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2334"
+    },
+    {
+        "IssueTopic": "JSX is not displayed correctly in webpage",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2301"
+    },
+    {
+        "IssueTopic": "README.md Performance section most of the urls return 503 error",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2275"
+    },
+    {
+        "IssueTopic": "Configuration of react/jsx-no-bind allows to use arrow functions, while the style guide prohibits it",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2255"
+    },
+    {
+        "IssueTopic": "What is the point of the \"Types\" section of the guide?",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2208"
+    },
+    {
+        "IssueTopic": "Misleading documentation 10.8",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2206"
+    },
+    {
+        "IssueTopic": "Non-Enforced Rules Should be Clearly Documented in the README.md",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2205"
+    },
+    {
+        "IssueTopic": "Reconsider capIsNew: false for new-cap",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2200"
+    },
+    {
+        "IssueTopic": "Rules for nullish coalescing and optional chaining",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2146"
+    },
+    {
+        "IssueTopic": "max-classes-per-file enabled in code but not in docs",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2143"
+    },
+    {
+        "IssueTopic": "Integrate \"eslint-plugin-eslint-comments\" plugin",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2049"
+    },
+    {
+        "IssueTopic": "Include a Contributing.md to help newcomers to contribute",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2033"
+    },
+    {
+        "IssueTopic": "Documentation conflicts with object-property-newline setting?",
+        "issueLink": "https://github.com/airbnb/javascript/issues/2007"
+    },
+    {
+        "IssueTopic": "[suggestion]Add type-annotations to react/sort-comp",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1922"
+    },
+    {
+        "IssueTopic": "Add support for TypeScript usage with typescript-eslint-parser",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1919"
+    },
+    {
+        "IssueTopic": "Calling setState in componentDidUpdate",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1875"
+    },
+    {
+        "IssueTopic": "[perf] disallow async/await",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1853"
+    },
+    {
+        "IssueTopic": "A single preferred way for event methods prefix",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1815"
+    },
+    {
+        "IssueTopic": "Add err and/or opts to the no-param-reassign exclusions?",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1812"
+    },
+    {
+        "IssueTopic": "Shown Example Is Not Appropriate for arrays--callback-return",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1806"
+    },
+    {
+        "IssueTopic": "separate event handler functions for an event attached to different inputs or one event handler function with lot of if statements/ switch statement?",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1783"
+    },
+    {
+        "IssueTopic": "if statements are not checked for preceding newline",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1762"
+    },
+    {
+        "IssueTopic": "(question) eslint rule / plugin for guideline 7.15",
+        "issueLink": "https://github.com/airbnb/javascript/issues/1731"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "IssueTopic": "Function.prototype.apply was called on WeakMap.prototype.get, which is a string and not a function",
+        "issueLink": "https://github.com/babel/babel/issues/13041"
+    },
+    {
+        "IssueTopic": "'undefined is not a function' with new JSX transform on development mode",
+        "issueLink": "https://github.com/babel/babel/issues/13019"
+    },
+    {
+        "IssueTopic": "@babel/eslint-parser does not add keys to ObjectTypeProperty",
+        "issueLink": "https://github.com/babel/babel/issues/13015"
+    },
+    {
+        "IssueTopic": "babel-parser: Introduce error code",
+        "issueLink": "https://github.com/babel/babel/issues/13007"
+    },
+    {
+        "IssueTopic": "loadFullConfig wastes time on findConfigUpwards again when I've already done loadOptions with rootMode: 'upward-optional'",
+        "issueLink": "https://github.com/babel/babel/issues/13006"
+    },
+    {
+        "IssueTopic": "Feature: Output placeholders which can be easily replaced",
+        "issueLink": "https://github.com/babel/babel/issues/13003"
+    },
+    {
+        "IssueTopic": "@babel/core^7.13.10 eslint error: Cannot read property 'value' of null when @babel/types are duplicated in node_modules",
+        "issueLink": "https://github.com/babel/babel/issues/12985"
+    },
+    {
+        "IssueTopic": "TSX parser remove comma in generic, making the output an invalid TSX syntax",
+        "issueLink": "https://github.com/babel/babel/issues/12978"
+    },
+    {
+        "IssueTopic": "Potential infinite node visit loop",
+        "issueLink": "https://github.com/babel/babel/issues/12976"
+    },
+    {
+        "IssueTopic": "ReferenceError: _objectSpread is not defined",
+        "issueLink": "https://github.com/babel/babel/issues/12966"
+    },
+    {
+        "IssueTopic": "Symbol required for Private Static Field in check can be shadowed",
+        "issueLink": "https://github.com/babel/babel/issues/12960"
+    },
+    {
+        "IssueTopic": "[Bug]The transformation of async function will cause it losing Symbol.toStringTag property",
+        "issueLink": "https://github.com/babel/babel/issues/12959"
+    },
+    {
+        "IssueTopic": "Throw on duplicate declaration when errorRecovery enabled",
+        "issueLink": "https://github.com/babel/babel/issues/12950"
+    },
+    {
+        "IssueTopic": "Can't use replaceWith of referencePath‘s .parentPath.parentPath from getBinding() when the target code is nested callexpression",
+        "issueLink": "https://github.com/babel/babel/issues/12943"
+    },
+    {
+        "IssueTopic": "Duplicate declaration of an imported identifier which is actually removed",
+        "issueLink": "https://github.com/babel/babel/issues/12938"
+    },
+    {
+        "IssueTopic": "parseExpression type definition issue",
+        "issueLink": "https://github.com/babel/babel/issues/12937"
+    },
+    {
+        "IssueTopic": "parser(ts): implements and extends in classes and interfaces",
+        "issueLink": "https://github.com/babel/babel/issues/12884"
+    },
+    {
+        "IssueTopic": "RegExp groups broken on v7.13.x versions",
+        "issueLink": "https://github.com/babel/babel/issues/12876"
+    },
+    {
+        "IssueTopic": "put deprecating warning on npm's babel-runtime",
+        "issueLink": "https://github.com/babel/babel/issues/12844"
+    },
+    {
+        "IssueTopic": "Babel does not load config",
+        "issueLink": "https://github.com/babel/babel/issues/12843"
+    },
+    {
+        "IssueTopic": "parser(ts): argument of TSTypeImport is not wrapped in TSLiteralType",
+        "issueLink": "https://github.com/babel/babel/issues/12833"
+    },
+    {
+        "IssueTopic": "parser(ts): TSTypeParameter name should be an Identifier",
+        "issueLink": "https://github.com/babel/babel/issues/12825"
+    },
+    {
+        "IssueTopic": "Webpack 5 error for missing extention for regenerator runtime when absoluteRuntime is used and a .mjs file is transformed",
+        "issueLink": "https://github.com/babel/babel/issues/12824"
+    },
+    {
+        "IssueTopic": "transform-regenerator incorrectly hoists loop variable declaration",
+        "issueLink": "https://github.com/babel/babel/issues/12806"
+    }
+]

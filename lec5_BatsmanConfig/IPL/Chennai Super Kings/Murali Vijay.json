@@ -1,0 +1,23 @@
+[
+    {
+        "Runs": "10",
+        "Balls": "15",
+        "Four": "1",
+        "Six": "0",
+        "Strikerate": "66.67"
+    },
+    {
+        "Runs": "21",
+        "Balls": "21",
+        "Four": "3",
+        "Six": "0",
+        "Strikerate": "100.00"
+    },
+    {
+        "Runs": "1",
+        "Balls": "7",
+        "Four": "0",
+        "Six": "0",
+        "Strikerate": "14.29"
+    }
+]

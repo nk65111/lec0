@@ -1,0 +1,26 @@
+{
+  "name": "Web_doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niteshkumar8745960884/lec0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niteshkumar8745960884/lec0/issues"
+  },
+  "homepage": "https://github.com/Niteshkumar8745960884/lec0#readme",
+  "dependencies": {
+    "Math": "0.0.1-security",
+    "cheerio": "^1.0.0-rc.5",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2"
+  }
+}
