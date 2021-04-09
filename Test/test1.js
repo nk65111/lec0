@@ -1,16 +1,28 @@
-function getBinary(n){
-    let i=0;
-   let temp=n;
-   let ans=0;
-   while(n!=0){
-       let rem=n%2;
-       ans+=rem*Math.pow(10,i);
-       console.log(ans);
-       n/=2;
-       i++;
+let arr = ["a", "b", "c", "d", 1, 2, 3, 4];
 
-   }
-   
-}
+arr.map(function (e) {
+  return 2 * e;
+});
 
-getBinary(12);
+(function () {
+  arr.filter(function () {});
+})();
+
+console.log(arr);
+
+let nArr;
+nArr = arr.filter(function (e) {
+  return Number.isInteger(e);
+});
+nArr = new Array();
+console.log(nArr);
+
+nArr = arr
+  .filter(function (e) {
+    return !Number.isInteger(e);
+  })
+  .map(function (e) {
+    return e + 1;
+  });
+
+console.log(nArr);
